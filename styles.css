@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+ul{
+	list-style-type: none;
+	padding: 0;
+	text-align: center;
+}
+
+li{
+	margin-bottom: 5px;
+}
